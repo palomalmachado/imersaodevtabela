@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
   <title>Classificação de Jogos de Futebol</title>
 </head>
 <link href="https://palomalmachado.github.io/imersaodevtabela/style.css" rel="stylesheet"/>
