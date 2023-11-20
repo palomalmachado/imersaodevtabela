@@ -1,8 +1,8 @@
 <!-- HTML -->
 <!DOCTYPE html>
 <html lang="en">
-<link href="https://palomalmachado.github.io/imersaodevtabela/style.css" rel="stylesheet"/>
-<scripts src="https://palomalmachado.github.io/imersaodevtabela/scripts.js"></scripts>
+<link href="https://palomalmachado.github.io/imersaodevtabela/style.css" rel="stylesheet" />
+<script src="https://palomalmachado.github.io/imersaodevtabela/scripts.js"></script>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
